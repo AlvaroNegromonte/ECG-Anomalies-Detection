@@ -4,7 +4,7 @@ Este repositório contém o desenvolvimento de um pipeline de **classificação 
 - preparo do dataset,
 - pré-processamento dos sinais,
 - extração de características (FFT, DWT, entropia de Shannon e estatísticas no tempo),
-- treinamento de **CNN 1D**,
+- treinamento de **CNN 1D** e **MLP** (Testes 4 e 7),
 - avaliação (matrizes de confusão, curvas ROC, análise de overfitting),
 - comparação com baseline (ex.: variação “FFT-only”).
 
