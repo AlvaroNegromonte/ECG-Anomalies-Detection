@@ -44,7 +44,6 @@ Executar no **Google Colab** é recomendado. Bibliotecas usadas no notebook:
 ## ▶️ Como executar (Colab)
 1. **Abra o notebook no Colab**  
    [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usuario/repositorio/blob/main/Projeto_Sinais_2025_1.ipynb)  
-   > Substitua `usuario/repositorio` pelo seu repositório no GitHub, e considere **renomear o arquivo** para `Projeto_Sinais_2025_1.ipynb` (sem espaços) antes do push.
 
 2. **Configure a Kaggle API** (primeiras células da seção “Importing Dataset from Kaggle”):  
    - Faça upload do `kaggle.json` no Colab (Conta Kaggle → API → Create New Token).  
